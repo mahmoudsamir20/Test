@@ -1,0 +1,32 @@
+Metrics
+
+1- total referrals
+2- total requests
+3- Avg referral close time
+4- Avg request response time
+
+Viz 1
+
+- Referrals by genders (pie)
+- Specialties (bar) 
+
+Viz 2
+
+- Referrals by type and sub type (pie)
+- Patient Nationality (bar)
+
+
+Viz 3
+
+- Referral Status (pie)
+- Sender Clusters Name  (bar)
+
+Viz 4 
+
+- Heatmap by Referrals / request times
+
+
+filters 
+
+- Genders
+- network
